@@ -1,0 +1,23 @@
+.contenedor{
+width: 100%;
+height: 1200px;
+background-color: aqua;
+
+}
+
+.encabezado{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(65, 21, 224);
+    font-size: 40px;
+    text-align: center;
+    
+    }
+
+    .tecnologia{
+        width: 100%;
+        height: 450px;
+        background-color: rgb(221, 16, 170);
+        font-size: 40px;
+        
+        }
